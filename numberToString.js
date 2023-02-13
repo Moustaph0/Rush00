@@ -15,6 +15,6 @@ function numberToString(tableau){
     tableau[9]="dix";
     console.log(tableau);
 }
-numberToString(tab);
 
-module.exports = numberToString;
+
+module.exports = numberToString(tab);
